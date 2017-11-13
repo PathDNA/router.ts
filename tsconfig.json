@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+	  "target": "es6",
+	  "module": "amd",
+	  "outFile": "./router.js",
+	  "moduleResolution": "classic",
+	  "strict": true
+	}
+  }
+  
